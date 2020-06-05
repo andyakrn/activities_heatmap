@@ -3,7 +3,10 @@ Visualization of activities from Garmin Connect
 
 Text
 
-<img src="images/title.png" alt="GPS tracks" align="left">
+<p align="center">
+<img src="images/title.png" alt="GPS tracks">
+</p>
+
 
 
 

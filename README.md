@@ -1,14 +1,20 @@
 Visualization of activities from Garmin Connect
 ============================ 
-
-Text
-
 <p align="center">
 <img src="images/title.png" alt="GPS tracks">
 </p>
 
 
+This project contains code for processing activities with gpx-files from Garmin Connect.  To export activities from Garmin Connect use gcexport.py  from this repo: [garmin-connect-export](https://github.com/pe-st/garmin-connect-export).
+
+
+
+
 
 
 Pie chart of activities types
-![pie_chart](images/pie_chart.png)
+<p align="center">
+<img src="images/pie_chart.png" alt="Pie chart">
+</p>
+
+

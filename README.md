@@ -23,4 +23,4 @@ Heatmap of gps activities
 </p>
 
 
-I wrote medium article about this project:[My article](https://medium.com/@azholud/analysis-and-visualization-of-activities-from-garmin-connect-b3e021c62472)
+I wrote medium article about this project: [My article](https://medium.com/@azholud/analysis-and-visualization-of-activities-from-garmin-connect-b3e021c62472)
